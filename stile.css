@@ -3,10 +3,21 @@ body{
     color: #0f141e;
 }
 
-
-
-.header-1{
-    background: #ffc680;
-   
+.collection{
+    background: #e9c69c;
 }
 
+.header-1{
+    background: #e9c69c;
+   
+}
+ .form{
+    background: #ebe5db;
+    color: #0f141e;  
+ }
+
+ .avatar{
+     width: 300px;
+     border-radius: 28px;
+     box-shadow: 4px 4px 14px rgba(0, 0, 0, .25);
+ }

@@ -1,0 +1,30 @@
+.header-1{
+    padding-left: 10px;
+    border-radius: 5px;
+    margin: 0px;
+}
+.collection{
+    
+    border-radius: 5px;
+    padding-left: 20px; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+
+.form{
+    
+    border-color: #dbccbd;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.work-1{
+    border-bottom: 2px solid grey;
+}
+
+.info{
+    margin-bottom: 10px;
+}
