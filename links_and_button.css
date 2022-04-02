@@ -1,0 +1,21 @@
+a{
+    color: #333;
+}
+
+a:hover{
+    color: orange;
+}
+
+.btn{
+    background: rgb(143, 137, 137);
+    padding: 8px 12px;
+    border: none;
+    color:blanchedalmond;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    opacity: 0.8;
+    color: orange;
+}
