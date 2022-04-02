@@ -19,3 +19,17 @@ a:hover{
     opacity: 0.8;
     color: orange;
 }
+
+.collection li{
+color:#708090;
+margin-bottom: 5px;
+}
+
+.table{
+    width: 100%;
+}
+
+.table td{
+    text-align: center;
+    padding-bottom: 10px;
+}
